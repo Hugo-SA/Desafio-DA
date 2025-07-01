@@ -39,11 +39,14 @@ A tarefa consistiu em analisar uma base textual heterogênea, inicialmente compo
    - Bibliotecas: `pandas`, `matplotlib`, `seaborn`, `vaderSentiment`, `re`
 
 2. **Execução:**  
+   - Certifique-se de que o arquivo de dados (CSV/ZIP) possua as mesmas colunas utilizadas neste projeto:
+      `title`, `artist`, `year`, `lyrics`, `language`, `tag`, `views`, `id`, `language_cld3`, `language_ft`  
+       *(As colunas `id`, `language_cld3` e `language_ft` são descartadas no início do processamento.)*
    - Ajuste o caminho do dataset no arquivo `.py` conforme sua máquina.
    - Execute o script `codigoFonte.py` em seu ambiente Python.
    - (Opcional) Abra o notebook `.ipynb` para uma experiência interativa.
 
-3. **Saídas:**  
+4. **Saídas:**  
    - Gráficos e prints com os principais resultados da análise.
    - Relatório técnico para consulta detalhada.
 
