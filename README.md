@@ -12,38 +12,50 @@ outras informações. Essa base possui também alguns poemas e livros. Cada entr
 o que precisar de algum pré-processamento. Vale ressaltar que o arquivo é relativamente grande. Então
 recomenda-se utilizar apenas trecho dele para testes de forma a não comprometer seu ritmo de programação.
 Com essa base de dados, você deve:
+
 (1) Explorar os dados: apresente análises numéricas e/ou gráficos para mostrar os dados que você possui,
 como a base está dividida e quais relações você poderia explorar desses dados.
+
 (2) Tratar a base: normalizar os dados, eliminar atributos que julguem irrelevantes e realizar outros ajustes
 que julgar importantes.
+
 (3) Realizar uma das tarefas abaixo:
+
 a. Analisar a polaridade (negativo/neutro/positivo) das letras de música e a polaridade das musicas
 de um dado artista foi mudando ao longo do tempo. Ainda, encontrar aqueles artistas que
 tiveram uma variação mais relevante de polaridade ao longo do tempo. Verificar se há uma
 relação entre a polaridade a música e a quantidade de views que a letra teve.
+
 b. Predizer o gênero musical (rap/pop/etc) de uma música à partir da sua letra. Avaliar a qualidade
 do processo de predição.
+
 c. Gerar novas letras de música à partir do conteúdo desta base. Crie um modelo generativo que
 vai receber o começo de uma letra e gerar o restante da música.
+
 d. Verifique a rede de colaboração de artistas através de um grafo. Encontre comunidades de
 colaboração neste grafo.
+
 (4) Documente todo o processo.
 
 2. Instruções adicionais
 
  Utilize as ferramentas, linguagens de programação, frameworks, etc, que desejar. Não estamos
 interessados em uma ferramenta/linguagem específica. Contudo, tudo deve estar documentado.
+
  Se você não conseguiu completar todas as tarefas não tem problema! Mesmo não terminando tudo,
 envie ainda assim o que você fez, descreva no relatório os obstáculos que teve. Nosso objetivo é avaliar
 suas estratégias. Queremos discutir contigo as ideias que teve. Mostre até onde chegou e como chegou.
 
 O formulário está dividido em duas seções, a primeira com os dados pessoais e a segunda com a resolução da
 prova, conforme descrição abaixo:
+
  Arquivo 1 - Código fonte
+
  Arquivo 2 - Relatório informando como foi seu processo de análise/desenvolvimento, ferramentas que
 usou, as ideias que teve para resolver cada um dos passos do projeto, experimentos com o modelo de
 predição, etc. Seja detalhado e claro o suficiente para entendermos seu processo e, principalmente, as
 conclusões que você chegou em cada tarefa.
+
 ## Principais Etapas
 
 - **Pré-processamento:**  
