@@ -35,7 +35,7 @@ vai receber o começo de uma letra e gerar o restante da música.
 d. Verifique a rede de colaboração de artistas através de um grafo. Encontre comunidades de
 colaboração neste grafo.
 
-(4) Documente todo o processo.
+(4) Documente todo o processo."
 
 2. Instruções adicionais
 
