@@ -5,6 +5,7 @@ Este repositório contém o código fonte e o relatório técnico do desafio de 
 ## Descrição do Desafio
 
 A tarefa consistiu em analisar uma base textual heterogênea, inicialmente composta por músicas, trechos de livros, discursos, entre outros. O foco foi filtrar e estruturar apenas as músicas, e posteriormente realizar uma análise de sentimentos (polaridade) das letras ao longo do tempo, considerando também aspectos como artistas, anos e popularidade (views).
+
 " Neste processo de seleção, iremos realizar essas etapas utilizando uma base de dados textuais contendo letras
 de músicas. A base contém o título da música, o autor, outros envolvidos, ano de produção, a letra da música e
 outras informações. Essa base possui também alguns poemas e livros. Cada entrada pode ter quebras de linhas,
